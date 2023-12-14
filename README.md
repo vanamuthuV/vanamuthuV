@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vanamuthu V</h1> <br>
+<h2 align="center">Hi 👋, I'm Vanamuthu V</h2> <br>
 
 [![Vanamuthu V](https://img.shields.io/badge/vanamuthuV-blue)](#)  [![Followers](https://img.shields.io/github/followers/vanamuthuV)](#)  [![Stars](https://img.shields.io/github/stars/vanamuthuV?label=Profile%20Stars&logo=Profile%20stars&logoColor=b)](#) 
 
