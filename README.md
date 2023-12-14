@@ -3,6 +3,8 @@
 [![Vanamuthu V](https://img.shields.io/badge/vanamuthuV-blue)](#)  [![Followers](https://img.shields.io/github/followers/vanamuthuV)](#)  [![Stars](https://img.shields.io/github/stars/vanamuthuV?label=Profile%20Stars&logo=Profile%20stars&logoColor=b)](#) 
 
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=vanamuthuV&label=Profile%20views&color=0e75b6&style=flat" alt="vanamuthuV" /> </p>
+
 - 📘 I'm currently pursuing B.Tech in Computer science and engineering.
 - 😁 I'm interested in Web Development.
 - 🙌 I'm currently working on my Web Development.
