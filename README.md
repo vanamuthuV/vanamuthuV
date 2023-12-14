@@ -24,7 +24,7 @@
 <br>
 <br>
 
-### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pickaxe.png" width="40px" /> Tools and Frameworks
+### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pickaxe.png" width="20px" />  Tools and Frameworks
 <br/>
 <p align="center">
       <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/css3.svg" height="35px" align="center" style="vertical-align:top margin:6px 4px" />
