@@ -32,7 +32,7 @@
              <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/react.svg" height="35px" align="center" style="vertical-align:top margin:6px 4px"/><br/><br>
              <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/visualstudio_code.svg" height="35px" align="center" style="vertical-align:top margin:6px 4px"/><br><br>
 </p>
-<br><br>
+<br>
 
 <div align="center">
 
