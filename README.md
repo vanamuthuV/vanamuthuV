@@ -43,3 +43,5 @@
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vanamuthuV&layout=compact&show_icons=true&theme=algolia&border_radius=20)
 </div>
 <br>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=vanamuthuV&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
