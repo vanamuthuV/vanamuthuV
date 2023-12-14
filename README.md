@@ -16,6 +16,9 @@
 
 <br><br><br>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=vanamuthuV&theme=light&hide_border=true&include_all_commits=true&count_private=true) <br/><br/>
-![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=vanamuthuV&theme=light&hide_border=true&fire=red&sideNums=red)<br/><br/>
-![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vanamuthuV&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=20&include_private=true)<br/><br/><br/>
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=vanamuthuV&count_private=true&theme=algolia&border_radius=20)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vanamuthuV&layout=compact&show_icons=true&theme=algolia&border_radius=20)
+</div>
