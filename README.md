@@ -9,7 +9,7 @@
 - 🙌 I'm currently working on my Web Development.
 - 📫 How to reach me **vanamuthuvana22@gmail.com**
 
-<br><br># **REACH ME**<br><br>
+<br><br>🤙 **REACH ME**<br><br>
 <div align="center">
   
   [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vanamuthuvana22@gmail.com) &emsp;<br>
