@@ -10,7 +10,7 @@
 - 🙌 I'm currently working on my Web Development.
 - 📫 How to reach me **vanamuthuvana22@gmail.com**
 
-<br><br>🤙 **REACH ME**<br><br>
+<br><br>🤙 **REACH ME**<br>
 <div align="center">
   
   [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vanamuthuvana22@gmail.com) &emsp;<br>
@@ -19,10 +19,6 @@
 [![Instagram - @vanamuthuV](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white )](https://www.instagram.com/_rajpiratz_/)&emsp;<br>
 
 </div>
-
-
-
-<br>
 <br>
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pickaxe.png" width="20px" />  Tools and Frameworks
@@ -36,7 +32,7 @@
              <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/react.svg" height="35px" align="center" style="vertical-align:top margin:6px 4px"/><br/><br>
              <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/visualstudio_code.svg" height="35px" align="center" style="vertical-align:top margin:6px 4px"/><br><br>
 </p>
-<br><br><br>
+<br><br>
 
 <div align="center">
 
@@ -46,3 +42,4 @@
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vanamuthuV&layout=compact&show_icons=true&theme=algolia&border_radius=20)
 </div>
+<br>
