@@ -7,7 +7,7 @@
 
 - 📘 I'm currently pursuing B.Tech in Computer science and engineering.
 - 😁 I'm interested in Web Development.
-- 🙌 I'm currently working on my Web Development.
+- 🙌 I'm currently working on Web Development.
 - 📫 How to reach me **vanamuthuvana22@gmail.com**
 
 <br><br>🤙 **REACH ME**<br>
