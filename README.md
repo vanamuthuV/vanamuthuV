@@ -3,10 +3,11 @@
 [![Vanamuthu V](https://img.shields.io/badge/vanamuthuV-blue)](#)  [![Followers](https://img.shields.io/github/followers/vanamuthuV)](#)  [![Stars](https://img.shields.io/github/stars/vanamuthuV?label=Profile%20Stars&logo=Profile%20stars&logoColor=b)](#) 
 
 
-<p align="center"> 
-  Visitor count<br>
+<h3 align="center"> 
+  Visitor count<br><br>
   <img src="https://profile-counter.glitch.me/vanamuthuV/count.svg" />
-</p>
+</h3>
+<br>
 
 - 📘 I am currently pursuing a B.Tech in Computer Science and Engineering.
 - 🌐 I am a passionate Full Stack Developer with a growing interest in Data Science.
@@ -24,7 +25,7 @@
 </div>
 <br>
 
-### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pickaxe.png" width="20px" />  Tools and Frameworks
+### 🔨 Tools and Frameworks
 <br/>
    <p align="center">
   <a href="https://skillicons.dev">
