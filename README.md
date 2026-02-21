@@ -3,7 +3,7 @@
 [![Vanamuthu V](https://img.shields.io/badge/vanamuthuV-blue)](#)  [![Followers](https://img.shields.io/github/followers/vanamuthuV)](#)  [![Stars](https://img.shields.io/github/stars/vanamuthuV?label=Profile%20Stars&logo=Profile%20stars&logoColor=b)](#) 
 <br>
 
-- 🌐 Interested in <bold> Software Development </bold>
+- 🌐 Interested in <bold> Software Development </bold> and <bold> Data </bold>
 - 📫 You can reach me at **vanamuthuvjob@gmail.com**
 
 <br><br>🤙 **REACH ME**<br>
